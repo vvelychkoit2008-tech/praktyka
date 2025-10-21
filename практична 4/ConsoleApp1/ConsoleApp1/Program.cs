@@ -24,8 +24,6 @@ public class Host
         array = new Task[0];
         Console.WriteLine("цикл завершено");
         GC.Collect();
-        GC.WaitForPendingFinalizers();
-
         Console.WriteLine("виконано збирач сміття");
         
     }
