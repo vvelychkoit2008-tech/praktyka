@@ -1,0 +1,15 @@
+/home/eshkere/Стільниця/praktyka/практична 6-7/ConsoleApp1/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1
+/home/eshkere/Стільниця/praktyka/практична 6-7/ConsoleApp1/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.deps.json
+/home/eshkere/Стільниця/praktyka/практична 6-7/ConsoleApp1/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.runtimeconfig.json
+/home/eshkere/Стільниця/praktyka/практична 6-7/ConsoleApp1/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.dll
+/home/eshkere/Стільниця/praktyka/практична 6-7/ConsoleApp1/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.pdb
+/home/eshkere/Стільниця/praktyka/практична 6-7/ConsoleApp1/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/eshkere/Стільниця/praktyka/практична 6-7/ConsoleApp1/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/eshkere/Стільниця/praktyka/практична 6-7/ConsoleApp1/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfo.cs
+/home/eshkere/Стільниця/praktyka/практична 6-7/ConsoleApp1/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/eshkere/Стільниця/praktyka/практична 6-7/ConsoleApp1/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.sourcelink.json
+/home/eshkere/Стільниця/praktyka/практична 6-7/ConsoleApp1/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.dll
+/home/eshkere/Стільниця/praktyka/практична 6-7/ConsoleApp1/ConsoleApp1/obj/Debug/net7.0/refint/ConsoleApp1.dll
+/home/eshkere/Стільниця/praktyka/практична 6-7/ConsoleApp1/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.pdb
+/home/eshkere/Стільниця/praktyka/практична 6-7/ConsoleApp1/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.genruntimeconfig.cache
+/home/eshkere/Стільниця/praktyka/практична 6-7/ConsoleApp1/ConsoleApp1/obj/Debug/net7.0/ref/ConsoleApp1.dll
