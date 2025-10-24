@@ -1,0 +1,15 @@
+/home/eshkere/Стільниця/praktyka/практична 15/bin/Debug/net9.0/практична 15
+/home/eshkere/Стільниця/praktyka/практична 15/bin/Debug/net9.0/практична 15.deps.json
+/home/eshkere/Стільниця/praktyka/практична 15/bin/Debug/net9.0/практична 15.runtimeconfig.json
+/home/eshkere/Стільниця/praktyka/практична 15/bin/Debug/net9.0/практична 15.dll
+/home/eshkere/Стільниця/praktyka/практична 15/bin/Debug/net9.0/практична 15.pdb
+/home/eshkere/Стільниця/praktyka/практична 15/obj/Debug/net9.0/практична 15.GeneratedMSBuildEditorConfig.editorconfig
+/home/eshkere/Стільниця/praktyka/практична 15/obj/Debug/net9.0/практична 15.AssemblyInfoInputs.cache
+/home/eshkere/Стільниця/praktyka/практична 15/obj/Debug/net9.0/практична 15.AssemblyInfo.cs
+/home/eshkere/Стільниця/praktyka/практична 15/obj/Debug/net9.0/практична 15.csproj.CoreCompileInputs.cache
+/home/eshkere/Стільниця/praktyka/практична 15/obj/Debug/net9.0/практична 15.sourcelink.json
+/home/eshkere/Стільниця/praktyka/практична 15/obj/Debug/net9.0/практична 15.dll
+/home/eshkere/Стільниця/praktyka/практична 15/obj/Debug/net9.0/refint/практична 15.dll
+/home/eshkere/Стільниця/praktyka/практична 15/obj/Debug/net9.0/практична 15.pdb
+/home/eshkere/Стільниця/praktyka/практична 15/obj/Debug/net9.0/практична 15.genruntimeconfig.cache
+/home/eshkere/Стільниця/praktyka/практична 15/obj/Debug/net9.0/ref/практична 15.dll
