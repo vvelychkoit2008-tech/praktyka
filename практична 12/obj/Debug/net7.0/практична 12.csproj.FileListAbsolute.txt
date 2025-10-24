@@ -1,0 +1,15 @@
+/home/eshkere/Стільниця/praktyka/практична 12/bin/Debug/net7.0/практична 12
+/home/eshkere/Стільниця/praktyka/практична 12/bin/Debug/net7.0/практична 12.deps.json
+/home/eshkere/Стільниця/praktyka/практична 12/bin/Debug/net7.0/практична 12.runtimeconfig.json
+/home/eshkere/Стільниця/praktyka/практична 12/bin/Debug/net7.0/практична 12.dll
+/home/eshkere/Стільниця/praktyka/практична 12/bin/Debug/net7.0/практична 12.pdb
+/home/eshkere/Стільниця/praktyka/практична 12/obj/Debug/net7.0/практична 12.GeneratedMSBuildEditorConfig.editorconfig
+/home/eshkere/Стільниця/praktyka/практична 12/obj/Debug/net7.0/практична 12.AssemblyInfoInputs.cache
+/home/eshkere/Стільниця/praktyka/практична 12/obj/Debug/net7.0/практична 12.AssemblyInfo.cs
+/home/eshkere/Стільниця/praktyka/практична 12/obj/Debug/net7.0/практична 12.csproj.CoreCompileInputs.cache
+/home/eshkere/Стільниця/praktyka/практична 12/obj/Debug/net7.0/практична 12.sourcelink.json
+/home/eshkere/Стільниця/praktyka/практична 12/obj/Debug/net7.0/практична 12.dll
+/home/eshkere/Стільниця/praktyka/практична 12/obj/Debug/net7.0/refint/практична 12.dll
+/home/eshkere/Стільниця/praktyka/практична 12/obj/Debug/net7.0/практична 12.pdb
+/home/eshkere/Стільниця/praktyka/практична 12/obj/Debug/net7.0/практична 12.genruntimeconfig.cache
+/home/eshkere/Стільниця/praktyka/практична 12/obj/Debug/net7.0/ref/практична 12.dll

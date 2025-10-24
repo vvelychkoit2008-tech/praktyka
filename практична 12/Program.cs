@@ -1,7 +1,17 @@
-﻿class Animal
+﻿
+class Animal
 {
-    public string Name { get; set; }
-    public string Sound { get; set; }
+    private string name;
+    private string sound;
+    public string Name { get { return name; } }
+    public string Sound { get { return sound; } }
+
+    protected Animal(string name, string sound)
+    {
+        this.name  = name;
+        this.sound = sound;
+    }
+
     public void Hello()
     {
         Console.WriteLine($"{Name} каже {Sound}");
@@ -9,11 +19,8 @@
 }
 class Dog : Animal
 {
-    public Dog()
-    {
-        Name = "собака";
-        Sound = "мяу";
-    }
+    public Dog(): base("собака", "мяу")
+    { }
 }
 class Program
 {
