@@ -1,6 +1,6 @@
 ﻿class Button
 {
-    private int Count = 0; // приватний лічильник для кожної кнопки
+    private int Count = 0;
     public string Name { get; set; }
 
     public void Click()
@@ -25,7 +25,7 @@ class Program
         b2.Click();
         b1.Click();
 
-        b1.Show(); // У перша кнопочка к-сть кліків: 2
-        b2.Show(); // У друга кнопочка к-сть кліків: 1
+        b1.Show();
+        b2.Show();
     }
 }

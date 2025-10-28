@@ -1,25 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\student\\Desktop\\владік\\praktyka\\практична 14\\практична 14.csproj": {}
+    "/home/eshkere/Стільниця/praktyka/практична 14/практична 14.csproj": {}
   },
   "projects": {
-    "C:\\Users\\student\\Desktop\\владік\\praktyka\\практична 14\\практична 14.csproj": {
+    "/home/eshkere/Стільниця/praktyka/практична 14/практична 14.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\student\\Desktop\\владік\\praktyka\\практична 14\\практична 14.csproj",
+        "projectUniqueName": "/home/eshkere/Стільниця/praktyka/практична 14/практична 14.csproj",
         "projectName": "практична 14",
-        "projectPath": "C:\\Users\\student\\Desktop\\владік\\praktyka\\практична 14\\практична 14.csproj",
-        "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\student\\Desktop\\владік\\praktyka\\практична 14\\obj\\",
+        "projectPath": "/home/eshkere/Стільниця/praktyka/практична 14/практична 14.csproj",
+        "packagesPath": "/home/eshkere/.nuget/packages/",
+        "outputPath": "/home/eshkere/Стільниця/praktyka/практична 14/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/eshkere/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "/usr/lib/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,7 +39,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -59,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.111/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
